@@ -1,0 +1,12 @@
+{
+  "name": "axel y victor proyecto final 403",
+  "short_name": "axel y victor proyecto final 403",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
